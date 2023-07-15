@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "json_tree_sharp/1.0.0": {
+        "runtime": {
+          "json_tree_sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "json_tree_sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

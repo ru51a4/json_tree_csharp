@@ -1,0 +1,15 @@
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/bin/Debug/net7.0/json_tree_sharp
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/bin/Debug/net7.0/json_tree_sharp.deps.json
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/bin/Debug/net7.0/json_tree_sharp.runtimeconfig.json
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/bin/Debug/net7.0/json_tree_sharp.dll
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/bin/Debug/net7.0/json_tree_sharp.pdb
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/json_tree_sharp.csproj.AssemblyReference.cache
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/json_tree_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/json_tree_sharp.AssemblyInfoInputs.cache
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/json_tree_sharp.AssemblyInfo.cs
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/json_tree_sharp.csproj.CoreCompileInputs.cache
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/json_tree_sharp.dll
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/refint/json_tree_sharp.dll
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/json_tree_sharp.pdb
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/json_tree_sharp.genruntimeconfig.cache
+/home/ru51a4/RiderProjects/json_tree_shrap/json_tree_sharp/obj/Debug/net7.0/ref/json_tree_sharp.dll

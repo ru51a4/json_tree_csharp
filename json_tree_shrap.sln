@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json_tree_sharp", "json_tree_sharp\json_tree_sharp.csproj", "{77B58264-B4F8-4D09-BFAF-A3660EB6AD64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B58264-B4F8-4D09-BFAF-A3660EB6AD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B58264-B4F8-4D09-BFAF-A3660EB6AD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B58264-B4F8-4D09-BFAF-A3660EB6AD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B58264-B4F8-4D09-BFAF-A3660EB6AD64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
